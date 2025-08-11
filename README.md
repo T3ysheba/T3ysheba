@@ -5,6 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/sergey-mkoyan-76b6a3287/" target="_blank" rel="noreferrer"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
